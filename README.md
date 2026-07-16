@@ -100,36 +100,24 @@ Once the fire condition has been cleared, the system automatically returns to it
 
 ---
 
-## 📷 Circuit Diagrams
+## Project Image
 
 <table>
-<tr>
-<td align="center">
-<b>Sender Node</b><br>
-<img src="images/Sender.jpeg" width="400">
-</td>
-<td align="center">
-<b>Receiver Node</b><br>
-<img src="images/Reciever.jpeg" width="400">
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <b>Sender Node</b><br>
+      <img src="FireLink-X/images/Sender.jpeg" width="400" alt="Sender Circuit">
+    </td>
+    <td align="center">
+      <b>Receiver Node</b><br>
+      <img src="FireLink-X/images/Reciever.jpeg" width="400" alt="Receiver Circuit">
+    </td>
+  </tr>
 </table>
 
 ---
 ## Applications
 FireLink-X can be deployed in numerous environments where early fire detection is essential, including industrial facilities, warehouses, manufacturing plants, agricultural fields, forests, electrical substations, oil and gas installations, commercial buildings, educational institutions, and disaster management systems. The system is particularly valuable in remote areas where conventional wired fire alarm systems are difficult or expensive to install.
-
----
-
-## 🎥 Working Demo
-
-Watch the complete working demonstration here:
-
-**▶️ Add your YouTube or GitHub video link here**
-
-Example:
-
-https://youtu.be/your-video-link
 
 ---
 

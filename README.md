@@ -102,13 +102,18 @@ Once the fire condition has been cleared, the system automatically returns to it
 
 ## 📷 Circuit Diagrams
 
-### Sender Node
-
-![Sender Circuit](images/Sender.png)
-
-### Receiver Node
-
-![Receiver Circuit](images/Reciever.png)
+<table>
+<tr>
+<td align="center">
+<b>Sender Node</b><br>
+<img src="images/Sender.jpeg" width="400">
+</td>
+<td align="center">
+<b>Receiver Node</b><br>
+<img src="images/Reciever.jpeg" width="400">
+</td>
+</tr>
+</table>
 
 ---
 ## Applications

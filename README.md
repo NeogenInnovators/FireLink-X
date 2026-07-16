@@ -99,17 +99,13 @@ FireLink-X is an IoT-based fire detection system designed to provide real-time f
 
 ### Sender Node
 
-![Sender Circuit](images/fire_sender_circuit.png)
+![Sender Circuit](images/Sender.png)
 
 ### Receiver Node
 
-![Receiver Circuit](images/fire_receiver_circuit.png)
+![Receiver Circuit](images/Reciever.png)
 
 ---
-
-## 📸 Hardware Setup
-
-![Hardware Setup](images/hardware_setup.jpg)
 
 ---
 

@@ -106,11 +106,11 @@ Once the fire condition has been cleared, the system automatically returns to it
   <tr>
     <td align="center">
       <b>Sender Node</b><br>
-      <img src="FireLink-X/images/Sender.jpeg" width="400" alt="Sender Circuit">
+      <img src="FireLink-X/images/Sender .jpeg" width="400" alt="Sender Circuit">
     </td>
     <td align="center">
       <b>Receiver Node</b><br>
-      <img src="FireLink-X/images/Reciever.jpeg" width="400" alt="Receiver Circuit">
+      <img src="FireLink-X/images/Reciever .jpeg" width="400" alt="Receiver Circuit">
     </td>
   </tr>
 </table>
